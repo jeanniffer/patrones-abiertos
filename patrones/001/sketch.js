@@ -17,7 +17,7 @@ function setup() {
 function draw() {
     background(colorFondo.color());
     patron();
-    frameRate(0)
+    frameRate(0.5)
 }
 
 function patron() {
